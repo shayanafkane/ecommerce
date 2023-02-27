@@ -19,7 +19,7 @@ function MainHeader() {
         </div>
         <div className="user-header w-1/3 flex items-center justify-end">
           <div className="button-box justify-end flex items-center">
-            <button className='mx-2 flex text-gray-500 font-bold pl-4'><FiUser className='mx-1 text-2xl text-sky-500' /> ورود / ثبت نام </button>
+            <button className='mx-2 flex text-gray-500 font-bold pl-4 border-l border-sky-500'><FiUser className='mx-1 text-2xl text-sky-500' /> ورود / ثبت نام </button>
             <button className='mx-2 flex text-gray-500 font-bold'><AiOutlineShoppingCart className='mx-1 text-2xl text-sky-500' /> سبد خرید </button>
           </div>
         </div>
