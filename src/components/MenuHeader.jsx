@@ -6,7 +6,7 @@ function MenuHeader() {
             <ul className='container mx-auto py-6 flex justify-between'>
                 <li className="group inline-block relative mx-2 ">
                     <button
-                        className="bg-sky-50 rounded-xl text-gray-700 font-semibold py-2 px-12  inline-flex items-center"
+                        className="bg-sky-50 rounded-xl text-gray-700 font-semibold py-2 2xl:px-12 xl:px-8 inline-flex items-center"
                     >
                         <span className="mr-1 text-gray-700">گوشی موبایل</span>
                         <svg
@@ -47,7 +47,7 @@ function MenuHeader() {
                 </li>
                 <li className="group inline-block relative mx-2">
                     <button
-                        className="bg-sky-50 text-gray-700 font-semibold py-2 px-12 rounded-xl inline-flex items-center"
+                        className="bg-sky-50 text-gray-700 font-semibold py-2 2xl:px-12 xl:px-8 rounded-xl inline-flex items-center"
                     >
                         <span className="mr-1 text-gray-700">گوشی موبایل</span>
                         <svg
@@ -88,7 +88,7 @@ function MenuHeader() {
                 </li>
                 <li className="group inline-block relative mx-2">
                     <button
-                        className="bg-sky-50 text-gray-700 font-semibold py-2 px-12 rounded-xl inline-flex items-center"
+                        className="bg-sky-50 text-gray-700 font-semibold py-2 2xl:px-12 xl:px-8 rounded-xl inline-flex items-center"
                     >
                         <span className="mr-1 text-gray-700">گوشی موبایل</span>
                         <svg
@@ -129,7 +129,7 @@ function MenuHeader() {
                 </li>
                 <li className="group inline-block relative mx-2">
                     <button
-                        className="bg-sky-50 text-gray-700 font-semibold py-2 px-12 rounded-xl inline-flex items-center"
+                        className="bg-sky-50 text-gray-700 font-semibold py-2 2xl:px-12 xl:px-8 rounded-xl inline-flex items-center"
                     >
                         <span className="mr-1 text-gray-700">گوشی موبایل</span>
                         <svg
@@ -170,7 +170,7 @@ function MenuHeader() {
                 </li>
                 <li className="group inline-block relative mx-2">
                     <button
-                        className="bg-sky-50 text-gray-700 font-semibold py-2 px-12 rounded-xl inline-flex items-center"
+                        className="bg-sky-50 text-gray-700 font-semibold py-2 2xl:px-12 xl:px-8 rounded-xl inline-flex items-center"
                     >
                         <span className="mr-1 text-gray-700">گوشی موبایل</span>
                         <svg
@@ -211,7 +211,7 @@ function MenuHeader() {
                 </li>
                 <li className="group inline-block relative mx-2">
                     <button
-                        className="bg-sky-50 text-gray-700 font-semibold py-2 px-12 rounded-xl inline-flex items-center"
+                        className="bg-sky-50 text-gray-700 font-semibold py-2 2xl:px-12 xl:px-8 rounded-xl inline-flex items-center"
                     >
                         <span className="mr-1 text-gray-700">گوشی موبایل</span>
                         <svg

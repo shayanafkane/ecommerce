@@ -13,7 +13,7 @@ import { Autoplay, Navigation } from "swiper";
 function SliderTopHome() {
     return (
         <div className='mt-12 '>
-            <div className="box-slider-top-home container mx-auto bg-slate-400 h-96 rounded-2xl">
+            <div className="box-slider-top-home container mx-auto bg-slate-100 h-96 rounded-2xl">
                 <Swiper autoplay={true} dir="rtl" navigation={true} modules={[Navigation , Autoplay]} className="mySwiper h-full w-full" >
                     <SwiperSlide >
                         <div className="h-full rounded-2xl">
